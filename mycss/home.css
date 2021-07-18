@@ -1,0 +1,95 @@
+body{
+	background-image: url('../image/c1.jpg');
+}
+a{
+	text-decoration: none;
+}
+li {
+    list-style-type: none;
+}
+.top-menu{
+	top: 0;
+	position: sticky;
+}
+.header .logo{
+	padding-top: 15px;
+}
+.header .title-top{
+	color: white;
+	padding-left: 80px;
+}
+.nav-bar .navbar-brand{
+	color: #fc5407 !important;
+}
+.nav-bar ul li a{
+	font-size: 22px;
+	color: black !important;
+}
+.carousel-inner .carousel-item img{
+	height: 116px;
+}
+.list-match{
+	background-color: #212529;
+	margin-top: 5px;
+}
+.top-list-match{
+	display: flex;
+}
+.choose-match ul li {
+	display: inline;
+}
+.choose-match ul li a{
+	padding: 5px 5px;
+	background-color: yellow;
+	border-radius: 10px ;
+	margin-left: 20px;
+	color: black;
+}
+.choose-match{
+	margin-top: 12px;
+}
+.match-and-time{
+    display: flex;
+}
+.league{
+	background-color: #333;
+	color: white;
+}
+.league .name-league{
+	padding-top: 8px;
+	padding-left: 15px;
+	font-weight: 400;
+	color: #fff;
+}
+.match-and-time img{
+	width: 33%;
+	padding-top: 18px;	
+}
+.match-and-time{
+	height: 80%;
+}
+.watch-match-button{
+	float: right;
+	width: 60%;
+}
+.team-home.text-center {
+    width: 40%;
+}
+.team-way.text-center {
+    width: 40%;
+}
+.match-and-time .time-this-match{
+	width: 20%;
+}
+
+img.card-img-top {
+    height: 156px;
+}
+.page-footer{
+	background-color: black;
+	color: #fff;
+	bottom: 0;
+}
+.text-gray{
+	color: gray;
+}
